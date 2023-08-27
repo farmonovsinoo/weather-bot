@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from bs4 import BeautifulSoup as bs
 from function import Toshkent, Buxoro
-
+ 
 ######## choosa language button #####################
 markup = InlineKeyboardMarkup(row_width=1)
 btn = InlineKeyboardButton("Uzbek 🇺🇿", callback_data='uzb')
