@@ -7,6 +7,7 @@ pytube = "*"
 os = "*"
 glob = "*"
 wikipedia = "*"
+gunicorn = "*"
 
 [dev-packages]
 
