@@ -1,0 +1,9 @@
+aiogram
+googletrans=='3.1.0a0'
+logging
+os
+glob
+gtts
+pytube
+instaloader
+wikipedia
